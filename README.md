@@ -1,4 +1,5 @@
 <body style="background-color:black;">
+    
 <h2> 
     <font color="white">ようこそRiffの公式ホームページへ!(Welcome to Riff's homepage!)</font>
 </h2>
